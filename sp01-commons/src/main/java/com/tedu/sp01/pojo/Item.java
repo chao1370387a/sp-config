@@ -14,8 +14,6 @@ public class Item {
 	private Integer number;
 
 	
-	//33333333333
-	//44444444
-	//55555555
+	//111111111
 
 }
